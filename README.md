@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Sten Hullebroeck. I am a junior back-end web developer studying at Artevelde University.
-I'm very passionate about coding and plan to continue my studies in DEA at Howest University in the coming years.
+I'm very passionate about coding and plan to continue my studies in DAE at Howest University in the coming years.
 
 Currently I'm in my second year as a programmer.
 I have worked with JavaScript, HTML, CSS and Markdown syntax + Nunjucks aswell as React, PHP and TypeScript. Most of my projects so far have worked on express servers with MVC app architecture.
