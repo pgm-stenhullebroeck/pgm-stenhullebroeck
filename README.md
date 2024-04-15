@@ -9,5 +9,6 @@ In my most recent project I had to work with PixiJS to make an interactive drag 
 
 ### What do I do?
 - Currently I am working as an intern at Esign in Ghent.
+- Working on my final project using the Godot 4 engine
 
 You can reach me via any of my social links, preferably on Linkedin for professional or business inquiries.
